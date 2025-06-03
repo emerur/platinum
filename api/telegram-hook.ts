@@ -33,7 +33,7 @@ Say goodbye to limits. Get instant access to RDPs & Residential Socks5 — no tr
 🖥️ RDPs Launching Soon — your next-level toolkit is coming
 
 🚀 Don’t wait. Join the channel now:
-🔗 [Tap to RDPs & Residential Socks5](${channelUrl})
+🔗 [Tap to Join RDPs & Residential Socks5](${channelUrl})
 `;
 
   try {
