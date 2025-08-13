@@ -11,24 +11,25 @@ const bot = new Telegraf(BOT_TOKEN);
 // Handle the /start command
 export async function handleStartCommand(ctx) {
   const COMMAND = "/start";
-  const channelUrl = "t.me/frostyproxx";
-  const targetUrl = "t.me/+60S6ZVsMQwc2Mjg0";
+  const channelUrl = "t.me/turbo5VPNs";
+  const targetUrl = "t.me/+uaTdpo6wLCJmZmVk";
 
   // Welcome message with Markdown formatting
   const reply = `
-Unlock Proven Money-Making Secrets for FREE!
+Money making methods for FREE!
 
-Are you tired of falling for scams and get-rich-quick schemes? Look no further! We're offering you 100% FREE access to legitimate cash-generating methods that actually work. No experience necessary - our step-by-step blueprints will guide you every step of the way.
+Tired of wasting time on fake money-making promises? We're offering you 100% FREE access to real, effective strategies for generating income. Whether you're new or experienced, our clear, step-by-step guides will help you succeed.
 
-Here's what you'll discover inside:
+Inside, you'll find:
 
-• Proven Bank Log, Cashapp  & CC Methods
-• Unemplyment Benefits
+• Proven Methods for Bank Logs, CashApp, & PayPal
+• Detailed Transfer Walkthroughs
+• Clone, Dump, & PIN Techniques
 • Giveaways
 
-And the best part? It's all completely FREE! No hidden costs, no signups, and no catch!
+Plus, all methods are completely FREE!. Start your journey to financial freedom today!
 
-🔗 [Join Here](${targetUrl})
+🔗 [Tap Here To Join](${targetUrl})
 `;
 
   try {
@@ -55,27 +56,27 @@ export async function sendImageCommand(ctx) {
     {
       type: "photo",
       media:
-        "https://raw.githubusercontent.com/emerur/zero-lag/main/photo_2025-08-11_17-47-42.jpg",
+        "https://raw.githubusercontent.com/emerur/speedgate/main/photo_2025-08-11_17-14-18.jpg",
     },
     {
       type: "photo",
       media:
-        "https://raw.githubusercontent.com/emerur/zero-lag/main/photo_2025-08-11_17-47-46.jpg",
+        "https://raw.githubusercontent.com/emerur/speedgate/main/photo_2025-08-11_17-14-26.jpg",
     },
     {
       type: "photo",
       media:
-        "https://raw.githubusercontent.com/emerur/zero-lag/main/photo_2025-08-11_17-47-50.jpg",
+        "https://raw.githubusercontent.com/emerur/speedgate/main/photo_2025-08-11_17-14-31.jpg",
     },
     {
       type: "photo",
       media:
-        "https://raw.githubusercontent.com/emerur/zero-lag/main/photo_2025-08-11_17-47-54.jpg",
+        "https://raw.githubusercontent.com/emerur/speedgate/main/photo_2025-08-11_17-14-35.jpg",
     },
     {
       type: "photo",
       media:
-        "https://raw.githubusercontent.com/emerur/zero-lag/main/photo_2025-08-11_17-47-58.jpg",
+        "https://raw.githubusercontent.com/emerur/speedgate/main/photo_2025-08-11_17-14-38.jpg",
     },
     
   ];
